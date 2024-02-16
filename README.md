@@ -1,7 +1,7 @@
-## Exercícios de Programação em Java
+## Projetos e Exercícios de Programação em C++
 
   <p align="left">
-    Exercícios feitos na sequência de aulas de programação em Linguagem C++ pelo canal 
+    Projetos e Exercícios feitos na sequência de aulas de programação em Linguagem C++ pelo canal 
    <a href="https://www.youtube.com/@cfbcursos">CFB Cursos</a>
   </p>
 </div>
