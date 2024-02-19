@@ -1,7 +1,7 @@
 ## Projetos e Exercícios de Programação em C++
 
   <p align="left">
-    Projetos e Exercícios feitos na sequência de aulas de programação em Linguagem C++ pelo canal 
+    Projetos e Exercícios feitos na sequência de aulas de programação em Linguagem C++ do Professor Bruno pelo canal 
    <a href="https://www.youtube.com/@cfbcursos">CFB Cursos</a>
   </p>
 </div>
