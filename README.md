@@ -11,3 +11,7 @@
 </h2>
 
 ![DEV C++](https://img.shields.io/badge/Dev_C%2B%2B-00599C?&style=for-the-badge&logo=cplusplus&logoColor=fff)
+
+### Linguagens do repositório:
+
+<img src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=for-the-badge"><!-- -->
