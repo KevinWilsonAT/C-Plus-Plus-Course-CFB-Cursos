@@ -8,7 +8,6 @@ int main(){
 	
 	// [<< endl] can only be used at the end of the line
 	
-	system("pause");
-	
+	system("pause");	
 	return 0;
 }

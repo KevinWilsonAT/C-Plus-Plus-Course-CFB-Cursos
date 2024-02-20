@@ -33,7 +33,6 @@ int main(){
 	
 	cout << life << "\n" << letter << "\n" << decimal1 << "\n" << decimal2 << "\n" << alive << "\n" << name << "\n";
 	
-	system("pause");
-	
+	system("pause");	
 	return 0;
 }
