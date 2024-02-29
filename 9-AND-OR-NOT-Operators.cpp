@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 
-using namespace str;
+using namespace std;
 
 int main(){
 
