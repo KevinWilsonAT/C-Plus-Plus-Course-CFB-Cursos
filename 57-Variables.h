@@ -1,0 +1,6 @@
+#ifndef 57-VARIABLES_H_INCLUDED
+#define 57-VARIABLES_H_INCLUDED
+
+int tmp = 100;
+
+#endif // 57-VARIABLES_H_INCLUDED
